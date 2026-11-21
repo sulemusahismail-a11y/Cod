@@ -9,7 +9,7 @@ A Node.js + Express + SQLite community rewards campaign platform with player acc
 - SQLite persistence for users, campaigns, claims, and sessions
 - CSRF token checks for state-changing API requests
 - Rate-limited authentication endpoints
-- Admin dashboard (`public/admin.html`)
+- Admin dashboard (`/admin.html`)
 - Admin claim approval/rejection with notes
 - Admin campaign creation and pause/activate controls
 - Admin account disable/enable controls
